@@ -7,7 +7,7 @@
 
 # Hi there, I'm Bishal Jaiswal 👋
 
-A curious programmer and aspiring 🤖 AI Research Scientist. Also interested in web development.
+A curious programmer and aspiring 🤖 AI Research Scientist. Interested in exploring various technologies.
 
 
 
@@ -31,6 +31,7 @@ A curious programmer and aspiring 🤖 AI Research Scientist. Also interested in
 - C++
 - Data Structure & Algorithm
 
+
 ---
 ## 📞 Contact Me
 
@@ -41,5 +42,6 @@ A curious programmer and aspiring 🤖 AI Research Scientist. Also interested in
 
 🤝 *Always Ready to collaborate and help others*
 
- 
+
+
 
