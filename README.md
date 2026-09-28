@@ -28,7 +28,8 @@ A curious programmer and aspiring 🤖 AI Research Scientist. Also interested in
 ---
 ## 🎯 Currently Focused On:
 
-- C++ Learning
+- C++
+- Data Structure & Algorithm
 
 ---
 ## 📞 Contact Me
