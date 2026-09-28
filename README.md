@@ -7,7 +7,7 @@
 
 # Hi there, I'm Bishal Jaiswal 👋
 
-A curious programmer and aspiring 🤖 AI Research Scientist. Interested in exploring various technologies.
+A curious programmer and aspiring 🤖 AI Research Scientist | Interested in exploring various technologies.
 
 
 
